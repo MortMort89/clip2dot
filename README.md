@@ -8,8 +8,6 @@ If an image is selected, it overwrites it. Otherwise, it saves a new one with a 
 ## ✨ Features
 - 📋 Paste images straight from your clipboard into your project folders  
 - 🖼️ Overwrite selected image files automatically  
-- 🎲 Creates a new random filename if no image is selected  
-- ⚡ Works from both the toolbar button and **Tools → Paste Image** menu
 
 ---
 
