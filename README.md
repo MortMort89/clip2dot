@@ -14,3 +14,5 @@ If an image is selected, it overwrites it. Otherwise, it saves a new one with a 
 ## 📦 Installation
 1. Copy the `clip2dot` folder into your project’s `res://addons/` directory.  
    You should end up with:  
+
+disclaimer: all code wad done with ChatGPT, based on my needs.
