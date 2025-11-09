@@ -1,6 +1,6 @@
 # Clip2Dot
 
-**Clip2Dot** is a lightweight Godot 4.5 editor plugin that lets you paste images directly from your clipboard into the FileSystem dock.  
+**Clip2Dot** is a plugin that lets you paste images directly from your clipboard into the FileSystem dock.  
 If an image is selected, it overwrites it. Otherwise, it saves a new one with a random filename.
 
 ---
